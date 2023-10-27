@@ -1,0 +1,17 @@
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\bin\Debug\SessionTrackEasyStrip.exe.config
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\bin\Debug\SessionTrackEasyStrip.exe
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\bin\Debug\SessionTrackEasyStrip.pdb
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.Form1.resources
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.Properties.Resources.resources
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.exe
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.pdb
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.FormGrupAndStud.resources
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.FromPred.resources
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.FromSpec.resources
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.FromSprav.resources
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.FromTexXar.resources
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.FromWidOtch.resources
+C:\Users\Максим\Desktop\SessionTrackEasyStrip\SessionTrackEasyStrip\obj\Debug\SessionTrackEasyStrip.FromWidStip.resources

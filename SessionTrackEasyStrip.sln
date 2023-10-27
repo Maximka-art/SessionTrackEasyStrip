@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionTrackEasyStrip", "SessionTrackEasyStrip\SessionTrackEasyStrip.csproj", "{944A2B72-0E23-4502-BF50-D932981F8414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944A2B72-0E23-4502-BF50-D932981F8414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944A2B72-0E23-4502-BF50-D932981F8414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944A2B72-0E23-4502-BF50-D932981F8414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944A2B72-0E23-4502-BF50-D932981F8414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1977E771-13D2-4E3F-AF7F-3D6B61CB71B9}
+	EndGlobalSection
+EndGlobal
